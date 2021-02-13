@@ -25,4 +25,4 @@ def get_unfollowers(self):
         .click
 
 
-my_bot = InstaBot('straysebastian', pw)
+my_bot = InstaBot('_sebastianjoseph', pw)
